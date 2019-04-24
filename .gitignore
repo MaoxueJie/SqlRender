@@ -11,3 +11,6 @@ standalone/build/*
 /target
 .idea
 *.iml
+.project
+.settings
+.classpath
